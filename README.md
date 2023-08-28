@@ -3,7 +3,6 @@
 
 <h3 align="center"> 🔗 Connect with me 🔗</h3>
 
-
 <div align="center">
 
 <a href="mailto:jerome2048@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
