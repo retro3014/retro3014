@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BBBBBB,100:a82da8&height=160&animation=fadeIn&fontColor=ffffff&section=header&text=Hello,%20I'm%20retro3014&fontSize=40&fontAlignY=30)
 
-<h3 align="left"> 🔗 Connect with me</h3>
+
+<h3 align="center"> 🔗 Connect with me 🔗</h3>
+
+
+<div align="center">
 
 <a href="mailto:jerome2048@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -8,9 +12,11 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Retro3014)
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/retro3014.svg)](https://atcoder.jp/users/retro3014)
 
+</div>
+
 <br>
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> 
