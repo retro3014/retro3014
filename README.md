@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BBBBBB,100:a82da8&height=300&animation=fadeIn&fontColor=ffffff&section=header&text=Hello,%20I'm%20retro3014&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BBBBBB,100:a82da8&height=160&animation=fadeIn&fontColor=ffffff&section=header&text=Hello,%20I'm%20retro3014&fontSize=40&fontAlignY=30)
 
 <h3 align="left"> 🔗 Connect with me</h3>
 
