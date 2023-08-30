@@ -8,7 +8,7 @@
 <a href="mailto:jerome2048@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=retro3014)](https://solved.ac/retro3014)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Retro3014)
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Retro3014)](https://codeforces.com/profile/Retro3014)
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/retro3014.svg)](https://atcoder.jp/users/retro3014)
 
 </div>
